@@ -96,3 +96,6 @@ python detect.py --weights yolov7.pt --source rtsp://your_stream_url
 ## Sonuçlar
 
 Sonuçlar, proje dizini içinde `runs/detect/exp` dizinine kaydedilir. Tespit edilen nesnelerin olduğu görüntüler bu dizine kaydedilir ve `--save-txt` argümanı kullanıldıysa, nesnelerin koordinatları metin dosyalarına kaydedilir.
+
+## Resimler
+![Project Image](https://github.com/user-attachments/assets/289ec14a-b35f-4cb6-8ff1-6c0a5925d956)
